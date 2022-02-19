@@ -2,13 +2,13 @@
   # Valores de configuração do bot
   ship_settings:
     # Quantidade total de naves (total)
-    empty_qtd_spaceships: 60
+    empty_qtd_spaceships: 42
     
     # Quantas naves deseja entrar para o boss
     qtd_send_spaceships: 15
 
     # Se deseja dar surrender, alterar para o valor do boss (zero não faz)
-    boss_surrender: 0
+    boss_surrender: 9
     
     # Envia somente naves 100% (True/False)
     send_ships_full: False
